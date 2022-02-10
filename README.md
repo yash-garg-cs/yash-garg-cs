@@ -26,4 +26,4 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anmol-Git&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-Git&theme=radical" />
    </p>
-[linkedin]: https://www.linkedin.com/in/anmol-sharma-486984192
+[linkedin]: https://www.linkedin.com/in/yash-garg-8a0930213/
