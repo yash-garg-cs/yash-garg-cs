@@ -1,6 +1,5 @@
 ### Hey there I'm YASH :grinning:
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
-### Hey there I'm YASH :grinning:
 ## I'm an engineering Student !! 
 - 😄 I'm currently working on web development
 - ✍️ I’m currently learning more in java & DSA   
